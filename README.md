@@ -10,21 +10,14 @@ Based on Chester How's tale-theme(https://github.com/chesterhow/tale) with a few
 * Change "Post" to "Project Portfolio"
   * You can manage your project experience just like running a blog.
 
-
-# Preview
-[![AP Screenshot](https://github.com/kssim/ap/blob/master/screenshot.png?raw=true)](https://kssim.github.io/ap/)
-
-
 # Usage
-1. Fork and clone the AP repo:
-    * git clone https://github.com/kssim/ap.git
-2. Install Jekyll:
+1. Install Jekyll:
     * gem install jekyll
-3. Install the theme's dependencies
+2. Install the theme's dependencies
     * bundle install
-4. Customize the theme
+3. Customize the theme
     * update _config.yml
-5. Run the Jekyll server
+4. Run the Jekyll server
     * jekyll serve
 
 

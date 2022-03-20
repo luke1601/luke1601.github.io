@@ -3,20 +3,17 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Hello, I am graduate student in the Department of Computer Information Communication, Hongik University. And I'm hope to M.S degree in Artificial Intelligence. 
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Education
+   * Hongik University (2016/02 ~ 2020/02)
+   <br/> Computer Information Communication
+
+# Military                                                 
+  * Second lieutenant                               (2020/03~ 2021/03)
+  * First lieutenant                                (2021/03~ )
 
 <br/>
 

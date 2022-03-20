@@ -8,7 +8,7 @@ Hello, I am graduate student in the Department of Computer Information Communica
 <br/>
 
 # Education
-   * Hongik University (2016/02 ~ 2020/02)
+   * Hongik University, sejong (2016/02 ~ 2020/02)
    <br/> Computer Information Communication
 
 # Military                                                 

@@ -2,13 +2,13 @@
 title: Hyeon Su Kim
 baseurl: ""
 url: "https://luke1601.github.io"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+# google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
   name: Kim Hyeon Su
   desc: Hello nice to meet you!
-  email: ksub0912@gmail.com
+  email: luke1601@naver.com
   selfie: assets/img/profile.jpg
 
 # social

@@ -13,7 +13,7 @@ Hello, I am graduate student in the Department of Computer Information Communica
 
 # Military                                                 
   * Second lieutenant                               (2020/03~ 2021/03)
-  * First lieutenant                                (2021/03~ )
+  * First lieutenant                                (2021/03~ 2022/6 )
 
 <br/>
 
